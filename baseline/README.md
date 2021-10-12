@@ -1,7 +1,6 @@
 # Sparse self-attention for semi-supervised sound event detection
 
 This code is the implementation of the paper 'Sparse self-attention for semi-supervised sound event detection'.
-The theoretical proof of the excessive sparsity of the Sparsemax is in proof.pdf.
 
 ## Preparation before Training
 - Use the environment.yml to install dependencies.
