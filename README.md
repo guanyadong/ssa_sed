@@ -1,5 +1,5 @@
 # Sparse Self-attention for Semi-supervised sound Event Detection
 
-> The implementation details of the code can be found in the baseline
+- The code can be found in the baseline
 
-> The proof in the paper can be found in poof.pdf.
+- The theoretical proof of the excessive sparsity of the Sparsemax is in proof.pdf.
