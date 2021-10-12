@@ -1,0 +1,35 @@
+__pycache__/
+.idea/
+.DS_STORE
+
+*.log
+
+# Dataset based
+dataset/audio/
+synthetic/
+audio/ # all audio folders
+dataset/check_files/
+dataset/add_missing_files.py
+
+data_generation/randomize_names.py
+
+# Testing
+baseline/test/
+
+# Generated files
+tmp/
+features/
+missing_files/
+stored_data/
+validation_durations.tsv
+
+synthetic20*
+# Generated data by source separation
+dataset/metadata/eval/generated
+dataset/metadata/validation_ss
+separated_sources.tsv
+
+# Test on cluster
+runme_explor.sh
+baseline/res.txt
+baseline/logs
