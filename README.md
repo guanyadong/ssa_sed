@@ -1,4 +1,4 @@
-# Sparse Self-attention for Semi-supervised sound Event Detection
+# Sparse Self-attention
 
 ## Environment
 
