@@ -18,3 +18,7 @@ self.encoder_layer = TransformerEncoderLayer(d_model=128, nhead=16, normal_func=
 ```
 
 - The theoretical proof of the excessive sparsity of the Sparsemax is in proof.pdf.
+
+## References
+[sparsemax-pytorch](https://github.com/KrisKorrel/sparsemax-pytorch)
+
