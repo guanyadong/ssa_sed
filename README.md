@@ -1,7 +1,5 @@
 # Sparse Self-attention for Semi-supervised sound Event Detection
 
-- The theoretical proof of the excessive sparsity of the Sparsemax is in proof.pdf.
-
 ## Environment
 
 ```
@@ -18,3 +16,5 @@ pip install sparsemax
 ```
 self.encoder_layer = TransformerEncoderLayer(d_model=128, nhead=16, normal_func="sparsemax", sparsity=1.3)
 ```
+
+- The theoretical proof of the excessive sparsity of the Sparsemax is in proof.pdf.
